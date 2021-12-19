@@ -1,0 +1,15 @@
+{
+  "name": "004",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kirik",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "secure-random-string": "^1.1.3"
+  }
+}
